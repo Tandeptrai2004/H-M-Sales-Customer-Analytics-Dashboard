@@ -1,5 +1,7 @@
 # H&M Fashion Analytics Dashboard (2020)
 
+## Dashboard Power BI (Interactive Version):
+ [Click để xem Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODVmZGUzMTctMTA2MC00ZjhlLTgyNTgtMjYwZGYzNmNmNGVjIiwidCI6IjlmZTBlODlhLTA0MmUtNDA5OC1iOGM4LTlkZGQ3MzJlZjM2NyJ9)
 ## 1. Giới thiệu dự án
 
 Dự án xây dựng Dashboard phân tích dữ liệu giao dịch của H&M năm 2020 nhằm đánh giá hiệu quả kinh doanh, phân tích hành vi khách hàng và xác định xu hướng sản phẩm.
